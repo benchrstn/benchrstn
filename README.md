@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hi there 👋
+## About Me
+- I'm Ben Christian Nathanael, have MSc in Data Analytics from University of Huddersfield, UK
+- I'm currently looking for Data Analyst or Data Scientist role at Manchester, UK
+- I'm experienced working with data and deriving insights to support decision-making processes
+- I learn daily from online courses to improve my skills
+
+## Skills
+Python, SQL, Microsoft Excel, Power BI
+
+## Projects
+- [Product Categorization using K-Means](https://github.com/benchrstn/cluster_product)
+- [Predictive Model using PySpark](https://github.com/benchrstn/predictive)
+- [Image Classification using CNN](https://github.com/benchrstn/image_classification)
+
+## How to reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/benchrstn)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/benchrstn)  
 
 <!--
 **benchrstn/benchrstn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
