@@ -1,6 +1,6 @@
 # Hi there 👋
 ## About Me
-- I'm Ben Christian Nathanael, have MSc in Data Analytics from University of Huddersfield, UK
+- I'm Ben Christian Nathanael, have an MSc in Data Analytics from University of Huddersfield, UK
 - I'm currently looking for Data Analyst or Data Scientist role at Manchester, UK
 - I'm experienced working with data and deriving insights to support decision-making processes
 - I learn daily from online courses to improve my skills
