@@ -9,9 +9,9 @@
 Python, SQL, Microsoft Excel, Power BI
 
 ## Projects
+- [A/B Test Analysis for Foodtech Company](https://github.com/benchrstn/abtesting)
 - [Product Categorization using K-Means](https://github.com/benchrstn/cluster_product)
 - [Predictive Model using PySpark](https://github.com/benchrstn/predictive)
-- [Image Classification using CNN](https://github.com/benchrstn/image_classification)
 
 ## How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/benchrstn)
