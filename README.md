@@ -46,6 +46,7 @@ I have a Master's Degree in Data Analytics from University of Huddersfield. I'm 
 
 ## 📫 Let's Connect!
 I'm always interested in discussing opportunities! I'm open to Data Analyst or Data Scientist roles.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/benchrstn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benchrstn@gmail.com)
 
